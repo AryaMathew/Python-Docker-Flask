@@ -16,9 +16,9 @@ Modules required for the application in file - requirements.txt
 1. Generate a Dockerfile inorder to build a docker image. Always keep in mind that this file should be placed inside a specific folder. 
 
 ```
-$ mkdir appdir
+$ mkdir app
 
-$ cd appdir
+$ cd app
 
 
 $ vim Dockerfile
